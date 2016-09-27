@@ -2,12 +2,7 @@
     "name": "jaml",
     "version": "1.0.0",
     "scripts": {
-        "start": "tsc && concurrently \"npm run tsc:w\" ",
-        "lite": "lite-server",
-        "postinstall": "typings install",
-        "tsc": "tsc",
-        "tsc:w": "tsc -w",
-        "typings": "typings"
+       
     },
     "license": "MIT",
     "dependencies": {
